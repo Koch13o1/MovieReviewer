@@ -6,6 +6,10 @@ In the future I also want to add some sort of summarizer which will summarize mu
 I am currently looking into it.
 
 
+<img width="1506" alt="image" src="https://github.com/user-attachments/assets/cf7f6cc4-2b0f-47cc-9c94-80c4b98c2f5a" />
+
+
+
 ### Frontend Description for GitHub Repository
 
 The frontend of this project is built using **React** and showcases a dynamic and interactive user interface for managing and exploring movies. Below is an overview of the key components and features implemented:
@@ -37,12 +41,22 @@ This React-based frontend is modular, maintainable, and easily extensible, makin
 
 
 
+<img width="1506" alt="image" src="https://github.com/user-attachments/assets/fc215303-9d11-4f60-a7e0-64bbbdb1234d" />
+
+
+
 ### Backend Description for GitHub Repository
 
 The backend is built with **Spring Boot** and uses **MongoDB** for data storage. It provides RESTful APIs for managing movies and reviews. 
 
 - **MovieController**: Handles endpoints to fetch all movies or a specific movie by its IMDb ID.  
-- **ReviewController**: Manages creating reviews for movies using the provided `reviewBody` and `imdbId`.  
+- **ReviewController**: Manages creating reviews for movies using the provided `reviewBody` and `imdbId`.
+
+
+
+<img width="1506" alt="image" src="https://github.com/user-attachments/assets/70fe59c2-102c-428f-aa58-31e8d24e0af9" />
+
+
 
 With a modular structure, the backend ensures efficient database interactions through service layers and supports cross-origin requests for seamless integration with the React frontend.
 
